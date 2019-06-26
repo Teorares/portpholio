@@ -6,8 +6,8 @@ const skillsData = [
     },
     {
     id: 2,
-    skillName: 'Html, CSS',
-    level: 'middle',
+    skillName: 'Html5, CSS3',
+    level: 'strong',
     },
     {
     id: 3,
